@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumayah Alwadei</h1>
+<h1 align="center">Hi 👋, I'm Sumayah </h1>
 <h3 align="center">Senior Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Flutter**
